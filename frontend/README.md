@@ -32,7 +32,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) + [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lucioeiras/proffy
+$ git clone https://github.com/lucioeiras/be-the-hero
 
 # Go into the repository
 $ cd proffy/frontend
