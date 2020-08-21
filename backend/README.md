@@ -34,6 +34,9 @@ $ cd proffy/backend
 # Install dependencies
 $ yarn 
 
+# Run migrations
+$ yarn knex migration:run
+
 # Run the server
 $ yarn dev
 ```
