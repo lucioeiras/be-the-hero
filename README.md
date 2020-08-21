@@ -35,7 +35,7 @@ I use the following tools to development:
 -  [Windows 10](https://pop.system76.com/)
 -  [VS Code](https://code.visualstudio.com/)
 -  [Insomnia](https://insomnia.rest/download/)
--  [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+-  [Postbird](https://github.com/Paxa/postbird)
 -  [Figma](https://www.figma.com/ui-design-tool/)
 
 <h2 id="folders">📁 Folders </h2>
