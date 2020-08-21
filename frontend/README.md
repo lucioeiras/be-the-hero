@@ -35,7 +35,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) + [Nod
 $ git clone https://github.com/lucioeiras/be-the-hero
 
 # Go into the repository
-$ cd proffy/frontend
+$ cd be-the-hero/frontend
 
 # Install dependencies
 $ yarn 
