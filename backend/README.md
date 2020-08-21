@@ -14,7 +14,7 @@
 
 <h2 id="techs">🚀 Technologies </h1>
 
-This project was developed at the [Rocketseat](https://rocketseat.com.br/) "Next Level Week" event with the following technologies:
+This project was developed at the [Rocketseat](https://rocketseat.com.br/) "Semana Omnistack" event with the following technologies:
 
 -  [Node.js](https://nodejs.org/)
 -  [Express](https://expressjs.com/pt-br/)
